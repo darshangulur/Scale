@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		9698291224CB07A500F897FF /* Scale.h in Headers */ = {isa = PBXBuildFile; fileRef = 9698291024CB07A500F897FF /* Scale.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9698291924CB08AD00F897FF /* Measure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9698291824CB08AD00F897FF /* Measure.swift */; };
+		9698291B24CB103600F897FF /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9698291A24CB103600F897FF /* MyView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +17,7 @@
 		9698291024CB07A500F897FF /* Scale.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Scale.h; sourceTree = "<group>"; };
 		9698291124CB07A500F897FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9698291824CB08AD00F897FF /* Measure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Measure.swift; sourceTree = "<group>"; };
+		9698291A24CB103600F897FF /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 				9698291024CB07A500F897FF /* Scale.h */,
 				9698291124CB07A500F897FF /* Info.plist */,
 				9698291824CB08AD00F897FF /* Measure.swift */,
+				9698291A24CB103600F897FF /* MyView.swift */,
 			);
 			path = Scale;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9698291B24CB103600F897FF /* MyView.swift in Sources */,
 				9698291924CB08AD00F897FF /* Measure.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
